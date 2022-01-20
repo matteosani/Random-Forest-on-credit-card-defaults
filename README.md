@@ -10,6 +10,6 @@ In particular, we will focus on the **correct** application of resampling techin
 I would like to emphasize **correct** since during this experience i've read lot of works on the same application (or similar) and not all of them 
 were correctly applied: good performances does not mean that is correct!
 Nice, but now you may ask: how can i trust you? who are you? Thank you for asking, but the good news is that you don't trust me (neither i do) 
-since all the theoretical aspects are documented and all the references can be found on the bottom of *Underlying Theory.ipynb* file.
+since all the theoretical aspects are documented and all the references can be found on the bibliography section of *Slides.pdf* file.
 
 I hope you will enjoy my work!
